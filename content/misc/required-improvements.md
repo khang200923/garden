@@ -1,6 +1,5 @@
 ---
 title: Required improvements
-draft: "true"
 ---
 At the time of writing (2025-06-30), I have various personal improvements I need to make for myself. That includes:
 - Focusing more
@@ -13,4 +12,4 @@ At the time of writing (2025-06-30), I have various personal improvements I need
 		- Or better yet, make other predictions that rely substantially on these, so that when they resolve those predictions can get some update
 		- Use Guesstimate models if applicable
 - Improve [[definitions/babble|babbling]] skill
-	- Every day, choose 5 problems to babble solutions for. Each problem takes 5 minutes to babble. Make those solutions as novel/divergent/silly as possible. The point is to improve exploration over solution-space, not to solve the problems.
+	- Writing.
