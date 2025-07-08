@@ -1,3 +1,3 @@
 ---
-title: Epistemics
+title: Knowledge
 ---
