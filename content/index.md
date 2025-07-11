@@ -5,3 +5,4 @@ Hi! This is a repository for my personal notes I've recently set up, partly to h
 
 My name is Khang, and I'm interested in AI alignment, rationality, prediction markets, machine learning, and various topics.
 
+I was inspired by [Vihaan Sondhi](https://vihaan3.github.io/knowledge-garden/) to write these notes, go check him out.
