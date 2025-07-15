@@ -5,4 +5,4 @@ title: Deliberate practice
 
 \- [LessWrong](https://www.lesswrong.com/w/deliberate-practice)
 
-See also [purposeful practice](purposeful-practice).
+See also [purposeful practice](purposeful-practice.md).

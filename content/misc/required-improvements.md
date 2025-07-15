@@ -11,5 +11,5 @@ At the time of writing (2025-06-30), I have various personal improvements I need
 		- When all of these questions resolve, review the predictions and the reasoning and... try to improve them
 		- Or better yet, make other predictions that rely substantially on these, so that when they resolve those predictions can get some update
 		- Use Guesstimate models if applicable
-- Improve [[definitions/babble|babbling]] skill
+- Improve [[babble|babbling]] skill
 	- Writing.
